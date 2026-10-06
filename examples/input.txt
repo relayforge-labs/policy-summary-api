@@ -1,0 +1,7 @@
+Internal access review policy — sample only
+
+Scope: Employees and contractors with access to the analytics workspace.
+Workspace owners must review access every quarter and remove access when a
+contract ends. Contractors may receive time-limited access with approval from
+the workspace owner. Emergency access is permitted for incident response, but
+the owner must review it within two business days. This example is fictional.
